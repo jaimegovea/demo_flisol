@@ -1,0 +1,24 @@
+# Vector store generado localmente (regenerar con build_db.py o el notebook)
+chroma_db/
+
+# Scripts auxiliares no necesarios para el demo
+app.py
+build_db.py
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+*.egg-info/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
