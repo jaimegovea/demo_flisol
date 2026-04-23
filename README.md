@@ -62,7 +62,6 @@ El notebook está dividido en secciones autoexplicativas:
 | 8 | Cadena RAG completa con memoria conversacional |
 | 9 | Validación con 10 preguntas de prueba |
 | 10 | Demo de memoria conversacional |
-| 11 | Comparación final: sin RAG vs. con RAG |
 
 > **Nota:** La primera ejecución de la sección 4 tarda ~2-3 minutos mientras genera los embeddings. Las ejecuciones posteriores cargan el vector store desde disco instantáneamente.
 
